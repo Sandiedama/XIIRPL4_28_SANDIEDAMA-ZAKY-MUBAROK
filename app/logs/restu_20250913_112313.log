@@ -1,0 +1,6 @@
+[2025-09-13 11:23:13] LOGIN username=restu
+[2025-09-13 11:25:58] aksi=Barang Keluar tabel=transaksi_out data_id=2384 user_id=5 username=restu ket=TOZEN 4" 100 A (LEKUKAN) (MMS-TZN-100A2), qty: 1
+[2025-09-13 11:25:58] aksi=Barang Keluar tabel=transaksi_out data_id=2385 user_id=5 username=restu ket=TOZEN 2½" 65 A (2 LEKUKAN) (MMS-TZN-65A2), qty: 2
+[2025-09-13 11:25:58] aksi=Barang Keluar tabel=transaksi_out data_id=2386 user_id=5 username=restu ket=BUTTERFLY KITZ 4" 100 (MMS-BL-BTF-100), qty: 1
+[2025-09-13 11:25:58] aksi=Barang Keluar tabel=transaksi_out data_id=2387 user_id=5 username=restu ket=BM (10.9) + WP + WL 16 x 110 (MMS-BM-16X110-10.9), qty: 12
+[2025-09-13 11:25:58] aksi=Barang Keluar tabel=transaksi_out data_id=2388 user_id=5 username=restu ket=BM (10.9) + WP + WL 16 x 65 (MMS-BM-16X65-10.9), qty: 16

@@ -1,0 +1,34 @@
+[2025-09-15 13:35:23] LOGIN username=restu
+[2025-09-15 13:39:28] aksi=Barang Keluar tabel=transaksi_out data_id=2446 user_id=5 username=restu ket=ELEMENT FILTER  30 MICRON (MRF-61830-CIM), qty: 12
+[2025-09-15 14:08:07] aksi=Barang Keluar tabel=transaksi_out data_id=2447 user_id=5 username=restu ket=FERULE 1½" R1 (MMS-FRL-24-R1), qty: 4
+[2025-09-15 14:08:07] aksi=Barang Keluar tabel=transaksi_out data_id=2448 user_id=5 username=restu ket=SAMOA GREASE GUN 1/4" (413080 SAMOA), qty: 1
+[2025-09-15 14:08:07] aksi=Barang Keluar tabel=transaksi_out data_id=2449 user_id=5 username=restu ket=BALL VALVE ST VALVE ST- 1/2" (MMS-BL-BRZ-08), qty: 1
+[2025-09-15 14:08:07] aksi=Barang Keluar tabel=transaksi_out data_id=2450 user_id=5 username=restu ket=FITTING STRAIGHT 1/2" MB (MMS-FS-08MB), qty: 1
+[2025-09-15 14:08:07] aksi=Barang Keluar tabel=transaksi_out data_id=2451 user_id=5 username=restu ket=AIR DUSTER / AIR GUN TEKIRO (NT-TEKIRO-ADAG), qty: 1
+[2025-09-15 14:08:07] aksi=Barang Keluar tabel=transaksi_out data_id=2452 user_id=5 username=restu ket=SOCK 1/2 NPT x 1/4 NPT (MMS-SH-06NPT-08NPT), qty: 1
+[2025-09-15 14:08:07] aksi=Barang Keluar tabel=transaksi_out data_id=2453 user_id=5 username=restu ket=SAMOA OIL CONTROL VALVE (363115 SAMOA), qty: 4
+[2025-09-15 15:52:18] aksi=Barang Masuk tabel=transaksi_in data_id=308 user_id=5 username=restu ket=PROPELLER SHAFT(KECIL)  ASSY (MMS-PROPE-002), qty: 14
+[2025-09-15 15:52:18] aksi=Barang Masuk tabel=transaksi_in data_id=309 user_id=5 username=restu ket=JAM DIGITAL MANHAULER 24VDC (MMS-JD24VDC-MANHAULER), qty: 9
+[2025-09-15 15:55:20] aksi=Barang Keluar tabel=transaksi_out data_id=2454 user_id=5 username=restu ket=PROPELLER SHAFT(KECIL)  ASSY (MMS-PROPE-002), qty: 10
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2455 user_id=5 username=restu ket=BREATHER FILTER DC 04 FILTER (DC-04-FILTER), qty: 1
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2456 user_id=5 username=restu ket=BMP + WP + WL 5x20 (MMS-BMP-5X20-4.6), qty: 6
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2457 user_id=5 username=restu ket=Adapter Straight ¾ NPT - ¾ JIC (MMS-AS-12NPT-12JIC), qty: 1
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2458 user_id=5 username=restu ket=PLUG 1/2" NPT (MMS-PL-08NPT), qty: 1
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2459 user_id=5 username=restu ket=BMP + WP + WL 10 x 35 (MMS-BMP-10X35-4.6), qty: 40
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2460 user_id=5 username=restu ket=FITTING STRAIGHT 1¼" JIC (MMS-FS-20JIC), qty: 3
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2461 user_id=5 username=restu ket=FITTING ELBOW 1¼ " JIC (MMS-FE-20JIC), qty: 1
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2462 user_id=5 username=restu ket=FERULE 1" R1 (MMS-FRL-16-R1), qty: 2
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2463 user_id=5 username=restu ket=FITTING STRAIGHT 1" JIC (MMS-FS-16JIC), qty: 2
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2464 user_id=5 username=restu ket=FERULE 1¼"  R1 (MMS-FRL-20-R1), qty: 4
+[2025-09-15 16:22:51] aksi=Barang Keluar tabel=transaksi_out data_id=2465 user_id=5 username=restu ket=DISK FLANGE HYVA (MMS-DF-HYVA), qty: 1
+[2025-09-15 16:24:09] aksi=Barang Keluar tabel=transaksi_out data_id=2466 user_id=5 username=restu ket=KAPUR BESI (MMS-K-KB), qty: 1
+[2025-09-15 16:25:33] aksi=Barang Keluar tabel=transaksi_out data_id=2467 user_id=5 username=restu ket=CUTTING TAIYO YELLOW 4" (TAIYO-K-BC4), qty: 1
+[2025-09-15 16:26:03] aksi=Barang Keluar tabel=transaksi_out data_id=2468 user_id=5 username=restu ket=LAKBAN KERTAS (MMS-L-KERTAS), qty: 15
+[2025-09-15 16:26:28] aksi=Barang Keluar tabel=transaksi_out data_id=2469 user_id=5 username=restu ket=CUTTING TAIYO YELLOW 4" (TAIYO-K-BC4), qty: 1
+[2025-09-15 16:27:00] aksi=Barang Keluar tabel=transaksi_out data_id=2470 user_id=5 username=restu ket=CUTTING TAIYO YELLOW 4" (TAIYO-K-BC4), qty: 3
+[2025-09-15 16:28:13] aksi=Barang Keluar tabel=transaksi_out data_id=2471 user_id=5 username=restu ket=NOZZLE LAS CO 1.0 MM (MMS-K-NOZZLE-1.0), qty: 1
+[2025-09-15 16:28:56] aksi=Barang Keluar tabel=transaksi_out data_id=2472 user_id=5 username=restu ket=AMPLAS NIKKEN 240 (MMS-L-AN-240), qty: 4
+[2025-09-15 16:29:30] aksi=Barang Keluar tabel=transaksi_out data_id=2473 user_id=5 username=restu ket=ISOLASI NITTO HITAM (NITTO-BLACK), qty: 1
+[2025-09-15 16:31:44] aksi=Barang Keluar tabel=transaksi_out data_id=2474 user_id=5 username=restu ket=FITTING STRAIGHT 1" NU (MMS-FS-16NU), qty: 1
+[2025-09-15 16:32:18] aksi=Barang Keluar tabel=transaksi_out data_id=2475 user_id=5 username=restu ket=KAWAT LAS RD 260-3,2MM (RD-260 KOBELCO), qty: 5
+[2025-09-15 16:32:58] aksi=Barang Keluar tabel=transaksi_out data_id=2476 user_id=5 username=restu ket=Adapter Straight 1 NPT - 1 JIC (MMS-AS-16NPT-16JIC), qty: 6

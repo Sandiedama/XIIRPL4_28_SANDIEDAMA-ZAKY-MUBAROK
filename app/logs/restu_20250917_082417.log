@@ -1,0 +1,44 @@
+[2025-09-17 08:24:17] LOGIN username=restu
+[2025-09-17 08:50:28] aksi=Barang Keluar tabel=transaksi_out data_id=2577 user_id=5 username=restu ket=GEAR PUMP 95cc (14571345-HYVA), qty: 1
+[2025-09-17 08:55:11] aksi=Barang Keluar tabel=transaksi_out data_id=2578 user_id=5 username=restu ket=THINNER PU (THINNER -PU), qty: 20
+[2025-09-17 08:55:11] aksi=Barang Keluar tabel=transaksi_out data_id=2579 user_id=5 username=restu ket=THINNER HG (MMS-THINNER-HG), qty: 20
+[2025-09-17 08:55:11] aksi=Barang Keluar tabel=transaksi_out data_id=2580 user_id=5 username=restu ket=EPOXY SIGMA PRIME 200 (EP-SP-200), qty: 2
+[2025-09-17 09:37:51] aksi=Barang Keluar tabel=transaksi_out data_id=2581 user_id=5 username=restu ket=KONTAKTIF LAS CO 1.0 MM (MMS-K-KONTAKTIF-1.0), qty: 2
+[2025-09-17 09:37:51] aksi=Barang Keluar tabel=transaksi_out data_id=2582 user_id=5 username=restu ket=NOZZLE LAS CO 1.0 MM (MMS-K-NOZZLE-1.0), qty: 1
+[2025-09-17 09:37:51] aksi=Barang Keluar tabel=transaksi_out data_id=2583 user_id=5 username=restu ket=METERAN WOOD 5.0X19 MM (MMS-K-METERAN-5M), qty: 1
+[2025-09-17 09:37:51] aksi=Barang Keluar tabel=transaksi_out data_id=2584 user_id=5 username=restu ket=BM (10.9) + WP + WL 14 x 55 (MMS-BM-14X55-10.9), qty: 10
+[2025-09-17 09:38:54] aksi=tambah tabel=barang data_id=31683 user_id=5 username=restu ket=Tambah barang: MMS-L-AN-1500
+[2025-09-17 09:41:34] aksi=Barang Keluar tabel=transaksi_out data_id=2585 user_id=5 username=restu ket=AMPLAS NIKKEN 1500 (MMS-L-AN-1500), qty: 10
+[2025-09-17 09:41:34] aksi=Barang Keluar tabel=transaksi_out data_id=2586 user_id=5 username=restu ket=AMPLAS NIKKEN 240 (MMS-L-AN-240), qty: 10
+[2025-09-17 09:41:34] aksi=Barang Keluar tabel=transaksi_out data_id=2587 user_id=5 username=restu ket=DEMPUL ALFA (MMS-NT-DA), qty: 12
+[2025-09-17 09:41:34] aksi=Barang Keluar tabel=transaksi_out data_id=2588 user_id=5 username=restu ket=EPOXY SIGMA PRIME 200 (EP-SP-200), qty: 3
+[2025-09-17 09:41:34] aksi=Barang Keluar tabel=transaksi_out data_id=2589 user_id=5 username=restu ket=THINNER HG (MMS-THINNER-HG), qty: 20
+[2025-09-17 09:56:44] aksi=Barang Masuk tabel=transaksi_in data_id=327 user_id=5 username=restu ket=STP 3162 BLACK (MMS-K-SS-BLACK), qty: 20
+[2025-09-17 10:32:00] aksi=Barang Masuk tabel=transaksi_in data_id=328 user_id=5 username=restu ket=ELEMENT FILTER 10 MICRON (CF SERIES) (MRF-61810CF-CIM), qty: 12
+[2025-09-17 10:32:00] aksi=Barang Masuk tabel=transaksi_in data_id=329 user_id=5 username=restu ket=ELEMENT FILTER 5 MICRON (MRF-KLO61805-CIM), qty: 1
+[2025-09-17 11:18:37] aksi=tambah tabel=barang data_id=31684 user_id=5 username=restu ket=Tambah barang: MMS-AK-MH
+[2025-09-17 11:24:47] aksi=tambah tabel=barang data_id=31685 user_id=5 username=restu ket=Tambah barang: MMS-SKR-MANHAULER
+[2025-09-17 11:27:11] aksi=tambah tabel=barang data_id=31686 user_id=5 username=restu ket=Tambah barang: MMS-KT-MANHAULER
+[2025-09-17 11:30:28] aksi=tambah tabel=barang data_id=31687 user_id=5 username=restu ket=Tambah barang: MMS-KNP-KD-MANHAULER
+[2025-09-17 11:31:30] aksi=tambah tabel=barang data_id=31688 user_id=5 username=restu ket=Tambah barang: MMS-HL-L300
+[2025-09-17 11:32:10] aksi=Barang Masuk tabel=transaksi_in data_id=330 user_id=5 username=restu ket=HANDLE DALAM L300 (MMS-HD-L300), qty: 4
+[2025-09-17 11:32:10] aksi=Barang Masuk tabel=transaksi_in data_id=331 user_id=5 username=restu ket=KUNCI PINTU SEBELAH KIRI MANHAULER / DOOR LOCK (TAIWAN) (MMS-KP-R-MANHAULER-TAI), qty: 4
+[2025-09-17 11:32:10] aksi=Barang Masuk tabel=transaksi_in data_id=332 user_id=5 username=restu ket=ANAK KUNCI MANHAULER (MMS-AK-MH), qty: 4
+[2025-09-17 11:32:10] aksi=Barang Masuk tabel=transaksi_in data_id=333 user_id=5 username=restu ket=KAWAT TARIKAN MANHAULER (MMS-KT-MANHAULER), qty: 4
+[2025-09-17 11:32:10] aksi=Barang Masuk tabel=transaksi_in data_id=334 user_id=5 username=restu ket=STEKER MANHAULER (MMS-SKR-MANHAULER), qty: 4
+[2025-09-17 11:32:10] aksi=Barang Masuk tabel=transaksi_in data_id=335 user_id=5 username=restu ket=KNOP KUNCI DALAM MANHAULER (MMS-KNP-KD-MANHAULER), qty: 4
+[2025-09-17 11:32:10] aksi=Barang Masuk tabel=transaksi_in data_id=336 user_id=5 username=restu ket=HANDLE LUAR (MMS-HL-L300), qty: 4
+[2025-09-17 11:35:56] aksi=Barang Keluar tabel=transaksi_out data_id=2590 user_id=5 username=restu ket=FERULE 1" R1 (MMS-FRL-16-R1), qty: 14
+[2025-09-17 11:35:56] aksi=Barang Keluar tabel=transaksi_out data_id=2591 user_id=5 username=restu ket=FITTING ELBOW 1" JIC (MMS-FE-16JIC), qty: 1
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2592 user_id=5 username=restu ket=BALL VALVE ST VALVE ST- 1½" (MMS-BL-BRZ-24), qty: 1
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2593 user_id=5 username=restu ket=BALL VALVE ST VALVE ST-1" (MMS-BL-BRZ-16), qty: 1
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2594 user_id=5 username=restu ket=Adapter Straight 1 NPT - 1 NPT (MMS-AS-16NPT-16NPT), qty: 1
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2595 user_id=5 username=restu ket=Adapter Straight 1½ NPT - 1½ NPT (MMS-AS-24NPT-24NPT), qty: 1
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2596 user_id=5 username=restu ket=PLUG 1" NPT (MMS-PL-16NPT), qty: 1
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2597 user_id=5 username=restu ket=BM (10.9) + WP + WL 14 x 35 (MMS-BM-14X35-10.9), qty: 8
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2598 user_id=5 username=restu ket=Adapter Elbow 1¼ NPT- 1¼ JIC (MMS-AE-20NPT-20JIC), qty: 1
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2599 user_id=5 username=restu ket=Adapter Elbow 1 NPT - 1 JIC (MMS-AE-16NPT-16JIC), qty: 1
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2600 user_id=5 username=restu ket=BREATHER FILTER DC 04 FILTER (DC-04-FILTER), qty: 1
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2601 user_id=5 username=restu ket=BMP + WP + WL 5x20 (MMS-BMP-5X20-4.6), qty: 1
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2602 user_id=5 username=restu ket=SEAL TAPE 1/2" ONDA (ONDA SEAL TAPE 12), qty: 10
+[2025-09-17 11:46:14] aksi=Barang Keluar tabel=transaksi_out data_id=2603 user_id=5 username=restu ket=OIL LEVEL/LEVEL GAUGE (MMS-OLLG-INTEGRAL1255), qty: 1

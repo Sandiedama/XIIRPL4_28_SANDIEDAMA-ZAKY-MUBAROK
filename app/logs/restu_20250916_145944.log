@@ -1,0 +1,47 @@
+[2025-09-16 14:59:44] LOGIN username=restu
+[2025-09-16 15:53:41] aksi=Barang Keluar tabel=transaksi_out data_id=2525 user_id=5 username=restu ket=ISOLASI NITTO HITAM (NITTO-BLACK), qty: 7
+[2025-09-16 15:53:41] aksi=Barang Keluar tabel=transaksi_out data_id=2526 user_id=5 username=restu ket=JUNCTION BOX 250 x 150 x 100 (MMS-JB-250X150X100), qty: 2
+[2025-09-16 15:53:41] aksi=Barang Keluar tabel=transaksi_out data_id=2527 user_id=5 username=restu ket=JUNCTION BOX 200 x 150 x 100 (MMS-JB-200X150X100), qty: 1
+[2025-09-16 15:53:41] aksi=Barang Keluar tabel=transaksi_out data_id=2528 user_id=5 username=restu ket=PILOT LAMP 220 VAC SHEMSCO (AD22-16DS-RED), qty: 20
+[2025-09-16 15:55:08] aksi=Barang Keluar tabel=transaksi_out data_id=2529 user_id=5 username=restu ket=KAWAT LAS LB 52-3,2MM KOBELCO (LB-52-KOBELCO), qty: 5
+[2025-09-16 15:58:45] aksi=Barang Keluar tabel=transaksi_out data_id=2530 user_id=5 username=restu ket=Adapter Straight 1¼ NPT - 1¼  JIC (MMS-AS-20NPT-20JIC), qty: 2
+[2025-09-16 15:58:45] aksi=Barang Keluar tabel=transaksi_out data_id=2531 user_id=5 username=restu ket=Adapter Elbow 1¼ NPT- 1¼ JIC (MMS-AE-20NPT-20JIC), qty: 2
+[2025-09-16 15:58:45] aksi=Barang Keluar tabel=transaksi_out data_id=2532 user_id=5 username=restu ket=BM (10.9) + WP + WL 14 x 35 (MMS-BM-14X35-10.9), qty: 8
+[2025-09-16 15:58:45] aksi=Barang Keluar tabel=transaksi_out data_id=2533 user_id=5 username=restu ket=BMP + WP + WL 10 x 100 (MMS-BMP-10X100-4.6), qty: 4
+[2025-09-16 15:58:45] aksi=Barang Keluar tabel=transaksi_out data_id=2534 user_id=5 username=restu ket=Adapter 1 BSP O x 1 JIC (MMS-AB-16BSPOR-16JIC), qty: 1
+[2025-09-16 15:58:45] aksi=Barang Keluar tabel=transaksi_out data_id=2535 user_id=5 username=restu ket=PRESSURE GAUGES 2.5" x 10 KG PAYUNG (MMS-PG-SKUN-10KG), qty: 1
+[2025-09-16 15:58:45] aksi=Barang Keluar tabel=transaksi_out data_id=2536 user_id=5 username=restu ket=Adapter Straight 1 NPT - 1 JIC (MMS-AS-16NPT-16JIC), qty: 1
+[2025-09-16 15:58:45] aksi=Barang Keluar tabel=transaksi_out data_id=2537 user_id=5 username=restu ket=SEAL TAPE 1/2" ONDA (ONDA SEAL TAPE 12), qty: 10
+[2025-09-16 16:17:43] aksi=Barang Masuk tabel=transaksi_in data_id=321 user_id=5 username=restu ket=PRESSURE GAUGES 2.5" x 10 KG PAYUNG (MMS-PG-SKUN-10KG), qty: 10
+[2025-09-16 16:17:43] aksi=Barang Masuk tabel=transaksi_in data_id=322 user_id=5 username=restu ket=DIN TEST POINT (DIN-TEST POINT-01), qty: 10
+[2025-09-16 16:17:43] aksi=Barang Masuk tabel=transaksi_in data_id=323 user_id=5 username=restu ket=OIL LEVEL/LEVEL GAUGE (MMS-OLLG-INTEGRAL1255), qty: 30
+[2025-09-16 16:17:43] aksi=Barang Masuk tabel=transaksi_in data_id=324 user_id=5 username=restu ket=CAMLOCK Type D-200 (MMS-CL-D200), qty: 4
+[2025-09-16 16:32:36] aksi=Barang Keluar tabel=transaksi_out data_id=2538 user_id=5 username=restu ket=DEPRESSED CENTEL WHEEL 4" (DCW-K-4), qty: 5
+[2025-09-16 16:33:13] aksi=Barang Keluar tabel=transaksi_out data_id=2539 user_id=5 username=restu ket=KACA MATA BENING (SAFETY) ERK CHETTAH (MMS-K-KML-B), qty: 1
+[2025-09-16 16:34:14] aksi=Barang Keluar tabel=transaksi_out data_id=2540 user_id=5 username=restu ket=KAWAT LAS RD 260-3,2MM (RD-260 KOBELCO), qty: 10
+[2025-09-16 16:35:11] aksi=Barang Keluar tabel=transaksi_out data_id=2541 user_id=5 username=restu ket=BMP + WP + WL 10 x 35 (MMS-BMP-10X35-8.8), qty: 20
+[2025-09-16 16:36:01] aksi=Barang Keluar tabel=transaksi_out data_id=2542 user_id=5 username=restu ket=DEPRESSED CENTEL WHEEL 4" (DCW-K-4), qty: 10
+[2025-09-16 16:37:33] aksi=Barang Keluar tabel=transaksi_out data_id=2543 user_id=5 username=restu ket=CUTTING TAIYO YELLOW 4" (TAIYO-K-BC4), qty: 50
+[2025-09-16 16:37:33] aksi=Barang Keluar tabel=transaksi_out data_id=2544 user_id=5 username=restu ket=DEPRESSED CENTEL WHEEL 4" (DCW-K-4), qty: 5
+[2025-09-16 16:38:28] aksi=Barang Keluar tabel=transaksi_out data_id=2545 user_id=5 username=restu ket=STP 3123 WHITE (MMS-K-SS-WHITE), qty: 3
+[2025-09-16 16:39:33] aksi=Barang Keluar tabel=transaksi_out data_id=2546 user_id=5 username=restu ket=PAKING COMBO 2" JIS 10K (MMS-PC-10K-32), qty: 1
+[2025-09-16 16:41:23] aksi=Barang Keluar tabel=transaksi_out data_id=2547 user_id=5 username=restu ket=PAKING COMBO 2" JIS 10K (MMS-PC-10K-32), qty: 4
+[2025-09-16 16:41:23] aksi=Barang Keluar tabel=transaksi_out data_id=2548 user_id=5 username=restu ket=BM (10.9) + WP + WL 16 x 65 (MMS-BM-16X65-10.9), qty: 8
+[2025-09-16 16:41:23] aksi=Barang Keluar tabel=transaksi_out data_id=2549 user_id=5 username=restu ket=SEAL TAPE 1/2" ONDA (ONDA SEAL TAPE 12), qty: 2
+[2025-09-16 16:42:06] aksi=Barang Keluar tabel=transaksi_out data_id=2550 user_id=5 username=restu ket=CUTTING TAIYO YELLOW 4" (TAIYO-K-BC4), qty: 50
+[2025-09-16 16:42:59] aksi=Barang Keluar tabel=transaksi_out data_id=2551 user_id=5 username=restu ket=CUTTING SUPER CUT 14" (TAIYO-K-BC14), qty: 1
+[2025-09-16 16:54:40] aksi=Barang Keluar tabel=transaksi_out data_id=2552 user_id=5 username=restu ket=FLOWMETER OGM 25 (1") (FM-OGM-A25), qty: 5
+[2025-09-16 16:54:40] aksi=Barang Keluar tabel=transaksi_out data_id=2553 user_id=5 username=restu ket=SAMOA OIL CONTROL VALVE (363115 SAMOA), qty: 3
+[2025-09-16 16:54:40] aksi=Barang Keluar tabel=transaksi_out data_id=2554 user_id=5 username=restu ket=SAMOA HOSE REEL 1/2" (504250 SAMOA), qty: 4
+[2025-09-16 16:54:40] aksi=Barang Keluar tabel=transaksi_out data_id=2555 user_id=5 username=restu ket=50:1 3" GREASE 55 GAL LM2350E-41-B (ARO) (LM2350E-41-B), qty: 1
+[2025-09-16 16:54:40] aksi=Barang Keluar tabel=transaksi_out data_id=2556 user_id=5 username=restu ket=GREASE GUN WITH RUBBER HOSE (413082), qty: 1
+[2025-09-16 16:54:52] aksi=Barang Keluar tabel=transaksi_out data_id=2557 user_id=5 username=restu ket=FLOWMETER OGM 25 (1") (FM-OGM-A25), qty: 5
+[2025-09-16 16:54:52] aksi=Barang Keluar tabel=transaksi_out data_id=2558 user_id=5 username=restu ket=SAMOA OIL CONTROL VALVE (363115 SAMOA), qty: 3
+[2025-09-16 16:54:52] aksi=Barang Keluar tabel=transaksi_out data_id=2559 user_id=5 username=restu ket=SAMOA HOSE REEL 1/2" (504250 SAMOA), qty: 4
+[2025-09-16 16:54:52] aksi=Barang Keluar tabel=transaksi_out data_id=2560 user_id=5 username=restu ket=50:1 3" GREASE 55 GAL LM2350E-41-B (ARO) (LM2350E-41-B), qty: 1
+[2025-09-16 16:54:52] aksi=Barang Keluar tabel=transaksi_out data_id=2561 user_id=5 username=restu ket=GREASE GUN WITH RUBBER HOSE (413082), qty: 1
+[2025-09-16 16:55:01] aksi=Barang Keluar tabel=transaksi_out data_id=2562 user_id=5 username=restu ket=FLOWMETER OGM 25 (1") (FM-OGM-A25), qty: 5
+[2025-09-16 16:55:01] aksi=Barang Keluar tabel=transaksi_out data_id=2563 user_id=5 username=restu ket=SAMOA OIL CONTROL VALVE (363115 SAMOA), qty: 3
+[2025-09-16 16:55:01] aksi=Barang Keluar tabel=transaksi_out data_id=2564 user_id=5 username=restu ket=SAMOA HOSE REEL 1/2" (504250 SAMOA), qty: 4
+[2025-09-16 16:55:01] aksi=Barang Keluar tabel=transaksi_out data_id=2565 user_id=5 username=restu ket=50:1 3" GREASE 55 GAL LM2350E-41-B (ARO) (LM2350E-41-B), qty: 1
+[2025-09-16 16:55:01] aksi=Barang Keluar tabel=transaksi_out data_id=2566 user_id=5 username=restu ket=GREASE GUN WITH RUBBER HOSE (413082), qty: 1

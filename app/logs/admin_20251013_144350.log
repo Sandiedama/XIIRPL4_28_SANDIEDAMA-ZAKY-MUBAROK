@@ -1,0 +1,4 @@
+[2025-10-13 14:43:50] LOGIN username=admin
+[2025-10-13 14:45:17] aksi=Barang Masuk tabel=transaksi_in data_id=339 user_id=1 username=admin ket=AIR FILTER REGULATOR 1/2" (DOUBLE) (EC-4010-04), qty: 1
+[2025-10-13 14:45:22] aksi=Barang Masuk tabel=transaksi_in data_id=340 user_id=1 username=admin ket=AIR FILTER REGULATOR 1/2" (DOUBLE) (EC-4010-04), qty: 1
+[2025-10-13 14:45:38] aksi=Barang Masuk tabel=transaksi_in data_id=341 user_id=1 username=admin ket=AIR FILTER REGULATOR 1/2" (DOUBLE) (EC-4010-04), qty: 1

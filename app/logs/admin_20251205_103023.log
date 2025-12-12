@@ -1,0 +1,7 @@
+[2025-12-05 10:30:23] LOGIN username=admin
+[2025-12-05 10:31:09] aksi=Barang Masuk tabel=transaksi_in data_id=352 user_id=1 username=admin ket=HOLE SAW 20MM (MMS-HLS-20MM), qty: 1
+[2025-12-05 10:31:38] aksi=tambah tabel=barang data_id=31692 user_id=1 username=admin ket=Tambah barang: barang testing
+[2025-12-05 10:31:47] aksi=hapus tabel=barang data_id=31692 user_id=1 username=admin ket=Hapus barang: barang testing
+[2025-12-05 13:52:18] aksi=tambah tabel=barang data_id=31693 user_id=1 username=admin ket=Tambah barang: barang test
+[2025-12-05 13:52:37] aksi=hapus tabel=barang data_id=31693 user_id=1 username=admin ket=Hapus barang: barang test
+[2025-12-05 13:53:55] aksi=tambah tabel=barang data_id=31694 user_id=1 username=admin ket=Tambah barang: BRG-TEST

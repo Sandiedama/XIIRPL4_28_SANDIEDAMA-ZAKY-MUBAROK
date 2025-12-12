@@ -1,0 +1,4 @@
+[2025-09-15 13:05:35] LOGIN username=restu
+[2025-09-15 13:09:27] aksi=Barang Keluar tabel=transaksi_out data_id=2443 user_id=5 username=restu ket=SEAL KIT VALVE (SC 120), qty: 2
+[2025-09-15 13:09:27] aksi=Barang Keluar tabel=transaksi_out data_id=2444 user_id=5 username=restu ket=SEAL PER VALVE ASSEMBLY ASSY (SC-120), qty: 2
+[2025-09-15 13:16:26] aksi=Barang Keluar tabel=transaksi_out data_id=2445 user_id=5 username=restu ket=PRESSURE SWITCH HYDRAMAN (PS-230-20-L), qty: 1

@@ -1,0 +1,31 @@
+[2025-09-16 10:27:12] LOGIN username=restu
+[2025-09-16 11:02:19] aksi=tambah tabel=barang data_id=31681 user_id=5 username=restu ket=Tambah barang: MMS-SS-20SW-20NPT
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2481 user_id=5 username=restu ket=MANIFOLD BLOCK LUBANG 2 (MB-2L), qty: 1
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2482 user_id=5 username=restu ket=TEE SOCK  1" (MMS-TS-16), qty: 1
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2483 user_id=5 username=restu ket=Adapter Straight  Swivel 1 JIC - 1 NPT (MMS-ASS-16JIC-16NPT), qty: 3
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2484 user_id=5 username=restu ket=Adapter 1 BSP O x 1 JIC (MMS-AB-16BSPOR-16JIC), qty: 4
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2485 user_id=5 username=restu ket=HYDRAULIC FILTER INTEGRAL 1¼ " / SPIN ON RETURN FILTER 1¼ " (INTEGRAL-INT100), qty: 1
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2486 user_id=5 username=restu ket=PRESSURE GAUGE WARNA WARNI (MMS-PG-CLRFL), qty: 1
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2487 user_id=5 username=restu ket=TEE SOCK  1¼" (MMS-TS-20), qty: 1
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2488 user_id=5 username=restu ket=OIL COOLER INTEGRAL 1470 (OIL-INT-1470), qty: 1
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2489 user_id=5 username=restu ket=SV1-16-C-0-24DG VICKERS EATON (SV1-16-C-0-24DG), qty: 1
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2490 user_id=5 username=restu ket=SV3-16-C-0-24DG VICKERS EATON (SV3-16-C-0-24DG), qty: 1
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2491 user_id=5 username=restu ket=RELIEF VALVE VICKERS ONLY (RV5-16-S-12H-30), qty: 1
+[2025-09-16 11:14:19] aksi=Barang Keluar tabel=transaksi_out data_id=2492 user_id=5 username=restu ket=SWIVEL 1 1/4 SWIVEL X NPT (MMS-SS-20SW-20NPT), qty: 1
+[2025-09-16 11:15:21] aksi=Barang Keluar tabel=transaksi_out data_id=2493 user_id=5 username=restu ket=MANIFOLD BLOCK MMS (MMS-B-16), qty: 1
+[2025-09-16 11:20:01] aksi=Barang Keluar tabel=transaksi_out data_id=2494 user_id=5 username=restu ket=SARUNG TANGAN KAIN (MMS-K-STK), qty: 1
+[2025-09-16 11:20:01] aksi=Barang Keluar tabel=transaksi_out data_id=2495 user_id=5 username=restu ket=PASEKON STAINLESS 30CM / PENGGARIS SIKU STAINLESS (PASEKON-STAINLESS-30CM), qty: 1
+[2025-09-16 11:20:01] aksi=Barang Keluar tabel=transaksi_out data_id=2496 user_id=5 username=restu ket=KACA MATA BENING (SAFETY) ERK CHETTAH (MMS-K-KML-B), qty: 1
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2497 user_id=5 username=restu ket=FITTING ELBOW 1" JIC (MMS-FE-16JIC), qty: 6
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2498 user_id=5 username=restu ket=FITTING STRAIGHT 1" JIC (MMS-FS-16JIC), qty: 6
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2499 user_id=5 username=restu ket=CLAMP MIKALOR 36-39 (MMS-CMB-36X39), qty: 18
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2500 user_id=5 username=restu ket=Adapter Straight 1 NPT - 1 NPT (MMS-AS-16NPT-16NPT), qty: 1
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2501 user_id=5 username=restu ket=BALL VALVE ST VALVE ST-1" (MMS-BL-BRZ-16), qty: 1
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2502 user_id=5 username=restu ket=Y-STRAINER BRONZE YUTA 1" (YS-YUTA-16), qty: 1
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2503 user_id=5 username=restu ket=A120 NOZZLE PUISI 1" FUEL NOZZLE (GUN) (FN-PIUSI-A12016), qty: 1
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2504 user_id=5 username=restu ket=FITTING STRAIGHT 1" NU (MMS-FS-16NU), qty: 1
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2505 user_id=5 username=restu ket=Adapter Straight  Swivel 1 JIC - 1 NPT (MMS-ASS-16JIC-16NPT), qty: 1
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2506 user_id=5 username=restu ket=Adapter Straight 1 NPT - 1 JIC (MMS-AS-16NPT-16JIC), qty: 1
+[2025-09-16 11:23:53] aksi=Barang Keluar tabel=transaksi_out data_id=2507 user_id=5 username=restu ket=PLUG 1" NPT (MMS-PL-16NPT), qty: 1
+[2025-09-16 11:25:50] aksi=Barang Keluar tabel=transaksi_out data_id=2508 user_id=5 username=restu ket=BM (10.9) + WP + WL 14 x 40 (MMS-BM-14X40-10.9), qty: 32
+[2025-09-16 11:25:50] aksi=Barang Keluar tabel=transaksi_out data_id=2509 user_id=5 username=restu ket=CHECK VALVE YUTA KUNINGAN 2" (MMS-CV-YUTA-32), qty: 1

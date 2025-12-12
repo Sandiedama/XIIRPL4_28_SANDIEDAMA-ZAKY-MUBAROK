@@ -1,0 +1,5 @@
+[2025-09-16 10:18:04] LOGIN username=restu
+[2025-09-16 10:22:52] aksi=Barang Keluar tabel=transaksi_out data_id=2477 user_id=5 username=restu ket=SOCKET WELDING A105 B16.11 97.3000# 1" (MMS-SW-1-3000), qty: 4
+[2025-09-16 10:22:52] aksi=Barang Keluar tabel=transaksi_out data_id=2478 user_id=5 username=restu ket=SOCKET WELDING A105 B16.11 97.1000#1¼" (MMS-SW-125-1000), qty: 4
+[2025-09-16 10:22:52] aksi=Barang Keluar tabel=transaksi_out data_id=2479 user_id=5 username=restu ket=KACA LAS BENING (MMS-K-KCL-B), qty: 2
+[2025-09-16 10:22:52] aksi=Barang Keluar tabel=transaksi_out data_id=2480 user_id=5 username=restu ket=KACA MATA BENING (SAFETY) ERK CHETTAH (MMS-K-KML-B), qty: 1

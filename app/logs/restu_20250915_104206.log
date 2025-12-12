@@ -1,0 +1,4 @@
+[2025-09-15 10:42:06] LOGIN username=restu
+[2025-09-15 10:56:23] aksi=Barang Keluar tabel=transaksi_out data_id=2410 user_id=5 username=restu ket=STANG LAS STIK (MMS-SL-STIK), qty: 3
+[2025-09-15 10:56:23] aksi=Barang Keluar tabel=transaksi_out data_id=2411 user_id=5 username=restu ket=SARUNG TANGAN KAIN (MMS-K-STK), qty: 1
+[2025-09-15 10:56:23] aksi=Barang Keluar tabel=transaksi_out data_id=2412 user_id=5 username=restu ket=SARUNG TANGAN CALDWELL (SAFETY SARUNG TANGAN) (MMS-K-STL-CALDWELL), qty: 3

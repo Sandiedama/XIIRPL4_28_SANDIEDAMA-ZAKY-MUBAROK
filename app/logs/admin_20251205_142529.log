@@ -1,0 +1,3 @@
+[2025-12-05 14:25:29] LOGIN username=admin
+[2025-12-05 14:25:53] aksi=Barang Masuk tabel=transaksi_in data_id=356 user_id=1 username=admin ket=BARANG TESTING (BRG-TEST), qty: 1
+[2025-12-05 14:26:27] aksi=Barang Masuk tabel=transaksi_in data_id=357 user_id=1 username=admin ket=BARANG TESTING (BRG-TEST), qty: 1

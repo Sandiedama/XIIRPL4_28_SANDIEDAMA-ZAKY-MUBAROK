@@ -1,0 +1,3 @@
+[2025-12-05 07:53:56] LOGIN username=test
+[2025-12-05 08:49:49] aksi=Barang Masuk tabel=transaksi_in data_id=351 user_id=3 username=test ket=BATU CUTTING WD 4" (WD-4X1.2-BGC), qty: 5
+[2025-12-05 08:50:56] aksi=Barang Keluar tabel=transaksi_out data_id=2648 user_id=3 username=test ket=BATU CUTTING WD 4" (WD-4X1.2-BGC), qty: 2

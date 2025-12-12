@@ -1,0 +1,3 @@
+[2025-11-29 15:40:47] LOGIN username=test
+[2025-11-29 15:47:51] aksi=Barang Masuk tabel=transaksi_in data_id=342 user_id=3 username=test ket=ELEMENT FILTER 10 MICRON CIMTEK (30034), qty: 10
+[2025-11-29 15:47:51] aksi=Barang Masuk tabel=transaksi_in data_id=343 user_id=3 username=test ket=SEAL KIT VALVE (SC 120), qty: 5

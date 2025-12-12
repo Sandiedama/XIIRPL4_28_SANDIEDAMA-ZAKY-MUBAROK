@@ -1,0 +1,7 @@
+[2025-09-13 09:51:26] LOGIN username=admin
+[2025-09-13 09:51:37] aksi=edit tabel=barang data_id=31209 user_id=1 username=admin ket=Edit barang: MMS-NT-PMK-MNHL
+[2025-09-13 09:52:08] aksi=edit tabel=barang data_id=30775 user_id=1 username=admin ket=Edit barang: MMS-AE-16NPT-08JIC
+[2025-09-13 09:52:41] aksi=edit tabel=barang data_id=31485 user_id=1 username=admin ket=Edit barang: SL-4P32A
+[2025-09-13 09:52:57] aksi=edit tabel=barang data_id=31146 user_id=1 username=admin ket=Edit barang: MMS-K-STL-CALDWELL
+[2025-09-13 09:53:29] aksi=edit tabel=barang data_id=31001 user_id=1 username=admin ket=Edit barang: MMS-FL-10K-32
+[2025-09-13 09:56:06] aksi=tambah tabel=barang data_id=31677 user_id=1 username=admin ket=Tambah barang: MMS-SH-06NPT-08NPT

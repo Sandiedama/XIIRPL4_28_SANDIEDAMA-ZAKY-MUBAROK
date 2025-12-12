@@ -1,0 +1,3 @@
+[2025-09-13 13:53:53] LOGIN username=restu
+[2025-09-13 14:01:35] aksi=Barang Keluar tabel=transaksi_out data_id=2392 user_id=5 username=restu ket=ELBOW LAS 2" SCH 40 (MMS-EL-32), qty: 10
+[2025-09-13 14:01:35] aksi=Barang Keluar tabel=transaksi_out data_id=2393 user_id=5 username=restu ket=FLANGE LAS 2" 10K JIS (MMS-FL-10K-32), qty: 10

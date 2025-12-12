@@ -1,0 +1,56 @@
+[2025-09-13 07:38:52] LOGIN username=restu
+[2025-09-13 09:27:10] aksi=Barang Masuk tabel=transaksi_in data_id=301 user_id=5 username=restu ket=HANDLE FULL BUS (MMS-HFB), qty: 3
+[2025-09-13 09:27:10] aksi=Barang Masuk tabel=transaksi_in data_id=302 user_id=5 username=restu ket=JAM DIGITAL MANHAULER 24VDC (MMS-JD24VDC-MANHAULER), qty: 2
+[2025-09-13 09:27:10] aksi=Barang Masuk tabel=transaksi_in data_id=303 user_id=5 username=restu ket=EMERGENCY EXIT MANHAULER (EMERGENCY EXIT), qty: 3
+[2025-09-13 09:27:10] aksi=Barang Masuk tabel=transaksi_in data_id=304 user_id=5 username=restu ket=LOUVER AC (LOUVER-AC), qty: 96
+[2025-09-13 09:27:10] aksi=Barang Masuk tabel=transaksi_in data_id=305 user_id=5 username=restu ket=LOUVER AC LUBANG 2 (LOUVER-AC2H), qty: 3
+[2025-09-13 09:31:31] aksi=Barang Keluar tabel=transaksi_out data_id=2329 user_id=5 username=restu ket=LOUVER AC (LOUVER-AC), qty: 16
+[2025-09-13 09:31:31] aksi=Barang Keluar tabel=transaksi_out data_id=2330 user_id=5 username=restu ket=CONDUIT 10MM BLACK (SPIRAL KABEL) (MMS-CONDUIT-10MM), qty: 1
+[2025-09-13 09:31:31] aksi=Barang Keluar tabel=transaksi_out data_id=2331 user_id=5 username=restu ket=CONDUIT 13MM BLACK (SPIRAL KABEL) (MMS-CONDUIT-13MM), qty: 1
+[2025-09-13 09:31:31] aksi=Barang Keluar tabel=transaksi_out data_id=2332 user_id=5 username=restu ket=CONDUIT 7 MM BLACK (SPIRAL KABEL) (MMS-CONDUIT-7MM), qty: 1
+[2025-09-13 09:31:31] aksi=Barang Keluar tabel=transaksi_out data_id=2333 user_id=5 username=restu ket=KABEL 0.75 300/500 V BLACK (MMS-NYAF-0.75BLACK), qty: 5
+[2025-09-13 09:31:31] aksi=Barang Keluar tabel=transaksi_out data_id=2334 user_id=5 username=restu ket=KABEL 0.75 300/500 V BLUE (MMS-NYAF-0.75BLUE), qty: 1
+[2025-09-13 09:31:31] aksi=Barang Keluar tabel=transaksi_out data_id=2335 user_id=5 username=restu ket=KABEL 0.75 300/500 V GREY (MMS-NYAF-0.75GREY), qty: 2
+[2025-09-13 09:31:31] aksi=Barang Keluar tabel=transaksi_out data_id=2336 user_id=5 username=restu ket=KABEL 0.75 300/500 V YELLOW (MMS-NYAF-0.75YELLOW), qty: 2
+[2025-09-13 09:42:48] aksi=Barang Keluar tabel=transaksi_out data_id=2337 user_id=5 username=restu ket=EPOXY SIGMA PRIME 200 (EP-SP-200), qty: 3
+[2025-09-13 09:42:48] aksi=Barang Keluar tabel=transaksi_out data_id=2338 user_id=5 username=restu ket=BLIM PU BLUE (MMS-BLIM-BLE), qty: 20
+[2025-09-13 09:42:48] aksi=Barang Keluar tabel=transaksi_out data_id=2339 user_id=5 username=restu ket=THINNER HG (MMS-THINNER-HG), qty: 20
+[2025-09-13 09:46:24] aksi=Barang Keluar tabel=transaksi_out data_id=2340 user_id=5 username=restu ket=SOCKET WELDING A105 B16.11 97.3000#1½" (MMS-SW-150-3000), qty: 4
+[2025-09-13 09:46:24] aksi=Barang Keluar tabel=transaksi_out data_id=2341 user_id=5 username=restu ket=SOCKET WELDING A105 B16.11 97.1000#1¼" (MMS-SW-125-1000), qty: 4
+[2025-09-13 09:46:24] aksi=Barang Keluar tabel=transaksi_out data_id=2342 user_id=5 username=restu ket=SOCKET WELDING A105 B16.11 97.3000# 1" (MMS-SW-1-3000), qty: 8
+[2025-09-13 10:14:53] aksi=Barang Keluar tabel=transaksi_out data_id=2343 user_id=5 username=restu ket=BMP + WP + WL 8 x 35 (MMS-BMP-8X35-4.6), qty: 4
+[2025-09-13 10:14:53] aksi=Barang Keluar tabel=transaksi_out data_id=2344 user_id=5 username=restu ket=SOCK 1/2 NPT x 1/4 NPT (MMS-SH-06NPT-08NPT), qty: 1
+[2025-09-13 10:20:29] aksi=tambah tabel=barang data_id=31678 user_id=5 username=restu ket=Tambah barang: MMS-16JIC-16JIC
+[2025-09-13 10:23:37] aksi=Barang Keluar tabel=transaksi_out data_id=2345 user_id=5 username=restu ket=FITTING ELBOW 1/2" JIC (MMS-FE-08JIC), qty: 4
+[2025-09-13 10:23:37] aksi=Barang Keluar tabel=transaksi_out data_id=2346 user_id=5 username=restu ket=FITTING STRAIGHT 1/2" JIC (MMS-FS-08JIC), qty: 8
+[2025-09-13 10:23:37] aksi=Barang Keluar tabel=transaksi_out data_id=2347 user_id=5 username=restu ket=FITTING STRAIGHT 1" JIC (MMS-FS-16JIC), qty: 25
+[2025-09-13 10:23:37] aksi=Barang Keluar tabel=transaksi_out data_id=2348 user_id=5 username=restu ket=FITTING ELBOW 1" JIC (MMS-FE-16JIC), qty: 4
+[2025-09-13 10:23:37] aksi=Barang Keluar tabel=transaksi_out data_id=2349 user_id=5 username=restu ket=ADAPTER SWIVEL 1" JIC X 1" JIC ELBOW (MMS-16JIC-16JIC), qty: 1
+[2025-09-13 10:23:37] aksi=Barang Keluar tabel=transaksi_out data_id=2350 user_id=5 username=restu ket=PLUG 3/4" NPT (MMS-PL-12NPT), qty: 1
+[2025-09-13 10:23:37] aksi=Barang Keluar tabel=transaksi_out data_id=2351 user_id=5 username=restu ket=Adapter Straight 1 NPT - 1 JIC (MMS-AS-16NPT-16JIC), qty: 4
+[2025-09-13 10:23:37] aksi=Barang Keluar tabel=transaksi_out data_id=2352 user_id=5 username=restu ket=Adapter Straight 1 NPT - 1/2 JIC (MMS-AS-16NPT-08JIC), qty: 1
+[2025-09-13 10:23:37] aksi=Barang Keluar tabel=transaksi_out data_id=2353 user_id=5 username=restu ket=Adapter Elbow ¼ NPT -½ JIC (MMS-AE-04NPT-08JIC), qty: 2
+[2025-09-13 10:25:20] aksi=Barang Keluar tabel=transaksi_out data_id=2354 user_id=5 username=restu ket=SEAL TAPE 1/2" ONDA (ONDA SEAL TAPE 12), qty: 10
+[2025-09-13 10:25:20] aksi=Barang Keluar tabel=transaksi_out data_id=2355 user_id=5 username=restu ket=Adapter Elbow 1 NPT - 1/2 JIC (MMS-AE-16NPT-08JIC), qty: 1
+[2025-09-13 10:25:20] aksi=Barang Keluar tabel=transaksi_out data_id=2356 user_id=5 username=restu ket=PILOK HITAM (MMS-KT-BLACK), qty: 2
+[2025-09-13 10:25:20] aksi=Barang Keluar tabel=transaksi_out data_id=2357 user_id=5 username=restu ket=BALL VALVE ST VALVE ST-2" (MMS-BL-BRZ-32), qty: 1
+[2025-09-13 10:25:20] aksi=Barang Keluar tabel=transaksi_out data_id=2358 user_id=5 username=restu ket=CAMLOCK Type F-200 (MMS-CL-F200), qty: 1
+[2025-09-13 10:27:49] aksi=Barang Keluar tabel=transaksi_out data_id=2359 user_id=5 username=restu ket=ELEMENT FILTER  30 MICRON (MRF-61830-CIM), qty: 5
+[2025-09-13 10:32:01] aksi=Barang Keluar tabel=transaksi_out data_id=2360 user_id=5 username=restu ket=ELBOW LAS 2" SCH 40 (MMS-EL-32), qty: 10
+[2025-09-13 10:32:01] aksi=Barang Keluar tabel=transaksi_out data_id=2361 user_id=5 username=restu ket=FLANGE LAS 2" 10K JIS (MMS-FL-10K-32), qty: 6
+[2025-09-13 10:32:01] aksi=Barang Keluar tabel=transaksi_out data_id=2362 user_id=5 username=restu ket=SOCKET WELDING A105 B16.11 97.3000# 1" (MMS-SW-1-3000), qty: 2
+[2025-09-13 10:32:01] aksi=Barang Keluar tabel=transaksi_out data_id=2363 user_id=5 username=restu ket=SOCKET WELDING A105 B16.11 97.1000#1½" (MMS-SW-150-1000), qty: 3
+[2025-09-13 10:32:01] aksi=Barang Keluar tabel=transaksi_out data_id=2364 user_id=5 username=restu ket=REDUSER 2"X 1" (MMS-RDS-32X16), qty: 1
+[2025-09-13 10:32:01] aksi=Barang Keluar tabel=transaksi_out data_id=2365 user_id=5 username=restu ket=SOCKET WELDING A105 B16 11 97 1000#1/2" (MMS-SW-12-1000), qty: 2
+[2025-09-13 10:32:01] aksi=Barang Keluar tabel=transaksi_out data_id=2366 user_id=5 username=restu ket=Adapter Straight 2 NPT - 2 NPT (MMS-AS-32NPT-32NPT), qty: 4
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2367 user_id=5 username=restu ket=Adapter Elbow 1¼ NPT- 1¼ JIC (MMS-AE-20NPT-20JIC), qty: 1
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2368 user_id=5 username=restu ket=Adapter Elbow 1 NPT - 1 JIC (MMS-AE-16NPT-16JIC), qty: 1
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2369 user_id=5 username=restu ket=Adapter Elbow ½ NPT - ½ JIC (MMS-AE-08NPT-08JIC), qty: 1
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2370 user_id=5 username=restu ket=BREATHER FILTER DC 04 FILTER (DC-04-FILTER), qty: 1
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2371 user_id=5 username=restu ket=Adapter Straight 1½ NPT - 1½ JIC (MMS-AS-24NPT-24JIC), qty: 1
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2372 user_id=5 username=restu ket=SUCTION FILTER JL 1" (MMS-SF-JL-08), qty: 8
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2373 user_id=5 username=restu ket=SUCTION FILTER JL 1½" (MMS-SF-JL-12), qty: 1
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2374 user_id=5 username=restu ket=LEVEL OIL YWZ-127 SEAL VTON (MMS-LO-YWZ-127-VTN), qty: 2
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2375 user_id=5 username=restu ket=PLUG 1" NPT (MMS-PL-16NPT), qty: 1
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2376 user_id=5 username=restu ket=Adapter Elbow 1 NPT - 1 NPT (MMS-AE-16NPT-16NPT), qty: 5
+[2025-09-13 10:42:07] aksi=Barang Keluar tabel=transaksi_out data_id=2377 user_id=5 username=restu ket=BMP + WP + WL 5 x 35 (MMS-BMP-5X35-4.6), qty: 6

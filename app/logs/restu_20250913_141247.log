@@ -1,0 +1,21 @@
+[2025-09-13 14:12:47] LOGIN username=restu
+[2025-09-13 14:16:50] aksi=tambah tabel=barang data_id=31679 user_id=5 username=restu ket=Tambah barang: SC 120
+[2025-09-13 14:17:22] aksi=tambah tabel=barang data_id=31680 user_id=5 username=restu ket=Tambah barang: SC-120
+[2025-09-13 14:17:57] aksi=Barang Masuk tabel=transaksi_in data_id=306 user_id=5 username=restu ket=SEAL PER VALVE ASSEMBLY ASSY (SC-120), qty: 2
+[2025-09-13 14:17:57] aksi=Barang Masuk tabel=transaksi_in data_id=307 user_id=5 username=restu ket=SEAL KIT VALVE (SC 120), qty: 2
+[2025-09-13 14:34:24] aksi=Barang Keluar tabel=transaksi_out data_id=2394 user_id=5 username=restu ket=FITTING STRAIGHT 3/8" JIC (MMS-FS-06JIC), qty: 16
+[2025-09-13 14:34:24] aksi=Barang Keluar tabel=transaksi_out data_id=2395 user_id=5 username=restu ket=COUPLER HYDRAULIC 1" (MMS-CH-16), qty: 6
+[2025-09-13 14:34:24] aksi=Barang Keluar tabel=transaksi_out data_id=2396 user_id=5 username=restu ket=BMP + WP + WL 10 x 20 (MMS-BMP-10X20-4.6), qty: 4
+[2025-09-13 14:51:20] aksi=Barang Keluar tabel=transaksi_out data_id=2397 user_id=5 username=restu ket=KACA MATA BENING (SAFETY) ERK CHETTAH (MMS-K-KML-B), qty: 1
+[2025-09-13 14:51:20] aksi=Barang Keluar tabel=transaksi_out data_id=2398 user_id=5 username=restu ket=CUTTING TAIYO YELLOW 4" (TAIYO-K-BC4), qty: 50
+[2025-09-13 14:51:20] aksi=Barang Keluar tabel=transaksi_out data_id=2399 user_id=5 username=restu ket=DEPRESSED CENTEL WHEEL 4" (DCW-K-4), qty: 5
+[2025-09-13 14:54:39] aksi=Barang Keluar tabel=transaksi_out data_id=2400 user_id=5 username=restu ket=KAWAT LAS LB 52-3,2MM KOBELCO (LB-52-KOBELCO), qty: 5
+[2025-09-13 14:55:24] aksi=Barang Keluar tabel=transaksi_out data_id=2401 user_id=5 username=restu ket=PIPA NAPPLE 2" INCIAN (MMS-PN-32), qty: 2
+[2025-09-13 14:55:53] aksi=Barang Keluar tabel=transaksi_out data_id=2402 user_id=5 username=restu ket=KAWAT BRUSHING-KC-075Y / BRUSHING CUP 3" (MMS-K-KC-075Y), qty: 1
+[2025-09-13 14:56:21] aksi=Barang Keluar tabel=transaksi_out data_id=2403 user_id=5 username=restu ket=ELBOW LAS  1" SCH 40 (MMS-EL-16), qty: 1
+[2025-09-13 14:57:01] aksi=Barang Keluar tabel=transaksi_out data_id=2404 user_id=5 username=restu ket=DEPRESSED CENTEL WHEEL 4" (DCW-K-4), qty: 2
+[2025-09-13 14:58:38] aksi=Barang Keluar tabel=transaksi_out data_id=2405 user_id=5 username=restu ket=KAWAT LAS CO 1.0 MM ENKA 15KG (MMS-K-KL-CO1.0), qty: 1
+[2025-09-13 14:59:24] aksi=Barang Keluar tabel=transaksi_out data_id=2406 user_id=5 username=restu ket=DEPRESSED CENTEL WHEEL 4" (DCW-K-4), qty: 5
+[2025-09-13 14:59:24] aksi=Barang Keluar tabel=transaksi_out data_id=2407 user_id=5 username=restu ket=CUTTING TAIYO YELLOW 4" (TAIYO-K-BC4), qty: 25
+[2025-09-13 14:59:52] aksi=Barang Keluar tabel=transaksi_out data_id=2408 user_id=5 username=restu ket=KACA MATA HITAM (SAFETY) (MMS-K-KML-H), qty: 3
+[2025-09-13 15:24:33] aksi=Barang Keluar tabel=transaksi_out data_id=2409 user_id=5 username=restu ket=KACA MATA HITAM (SAFETY) (MMS-K-KML-H), qty: 1

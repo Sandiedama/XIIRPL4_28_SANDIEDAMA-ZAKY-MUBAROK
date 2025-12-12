@@ -1,0 +1,44 @@
+[2025-09-17 13:02:51] LOGIN username=restu
+[2025-09-17 13:22:40] aksi=tambah tabel=barang data_id=31690 user_id=5 username=restu ket=Tambah barang: MMS-KARBAL
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2604 user_id=5 username=restu ket=KUNCI BAGASI MANHAULER (MMS-KP-B-MANHAULER), qty: 6
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2605 user_id=5 username=restu ket=EMERGENCY EXIT MANHAULER (EMERGENCY EXIT), qty: 3
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2606 user_id=5 username=restu ket=CUTTING TAIYO YELLOW 4" (TAIYO-K-BC4), qty: 10
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2607 user_id=5 username=restu ket=GAS SPRING PANJANG 63CM / SOCK BAGASI (MMS-GS63-MANHAULER), qty: 6
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2608 user_id=5 username=restu ket=BMP + WP + WL 10 x 35 (MMS-BMP-10X35-8.8), qty: 210
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2609 user_id=5 username=restu ket=PILOK HITAM (MMS-KT-BLACK), qty: 1
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2610 user_id=5 username=restu ket=LAKBAN KERTAS (MMS-L-KERTAS), qty: 30
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2611 user_id=5 username=restu ket=MATA BOR 3.0 MM (MMS-K-MB-3.0MM), qty: 2
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2612 user_id=5 username=restu ket=MATA BOR 4.0 MM (MMS-K-MB-4.0MM), qty: 2
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2613 user_id=5 username=restu ket=MATA BOR 5.0 MM (MMS-K-MB-5.0MM), qty: 2
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2614 user_id=5 username=restu ket=MATA BOR 11 MM (MMS-K-MB-11MM), qty: 1
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2615 user_id=5 username=restu ket=KARET BALON (MMS-KARBAL), qty: 1
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2616 user_id=5 username=restu ket=KARET JEPIT (MMS-KARPIT), qty: 4
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2617 user_id=5 username=restu ket=STP 3162 BLACK (MMS-K-SS-BLACK), qty: 20
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2618 user_id=5 username=restu ket=PEGANGAN GANTUNGAN PLASTIK (MMS.NON-0012), qty: 30
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2619 user_id=5 username=restu ket=KENI LUBANG ATAS 1¼" (MMS-KLA-MANHAULER), qty: 1
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2620 user_id=5 username=restu ket=KENI MANGKOK 1¼" (MMS-KM-MANHAULER), qty: 1
+[2025-09-17 13:34:47] aksi=Barang Keluar tabel=transaksi_out data_id=2621 user_id=5 username=restu ket=KENI TEE ALUMUNIUM 1¼" (MMS-KTA-MANHAULER), qty: 1
+[2025-09-17 14:08:10] aksi=Barang Keluar tabel=transaksi_out data_id=2622 user_id=5 username=restu ket=FILTER VESSEL VIKING 1F INLET KIRI (MMS-FV-VIK-1F-INLK), qty: 1
+[2025-09-17 14:13:57] aksi=Barang Masuk tabel=transaksi_in data_id=337 user_id=5 username=restu ket=ENGSEL BUBUT 5/8" (MMS-ES-BBT), qty: 30
+[2025-09-17 14:45:57] aksi=Barang Keluar tabel=transaksi_out data_id=2623 user_id=5 username=restu ket=CARTRIDGE VALVE DSH 161 CR 24 VDC SN. DSH161CRSPD024D PARKER (DSH161CRSPD024D-PARKER), qty: 1
+[2025-09-17 15:00:52] aksi=Barang Keluar tabel=transaksi_out data_id=2624 user_id=5 username=restu ket=MATA BOR 6.0 MM (MMS-K-MB-6.0MM), qty: 1
+[2025-09-17 15:00:52] aksi=Barang Keluar tabel=transaksi_out data_id=2625 user_id=5 username=restu ket=KACA LAS BENING (MMS-K-KCL-B), qty: 5
+[2025-09-17 15:00:52] aksi=Barang Keluar tabel=transaksi_out data_id=2626 user_id=5 username=restu ket=KACA LAS HITAM (MMS-K-KCL-H-10), qty: 5
+[2025-09-17 15:35:03] aksi=tambah tabel=barang data_id=31691 user_id=5 username=restu ket=Tambah barang: MMS-LS-6
+[2025-09-17 15:37:42] aksi=Barang Keluar tabel=transaksi_out data_id=2627 user_id=5 username=restu ket=SEAL TAPE 1/2" ONDA (ONDA SEAL TAPE 12), qty: 5
+[2025-09-17 15:37:42] aksi=Barang Keluar tabel=transaksi_out data_id=2628 user_id=5 username=restu ket=BMP + WP + WL 8 x 35 (MMS-BMP-8X35-4.6), qty: 10
+[2025-09-17 15:37:42] aksi=Barang Keluar tabel=transaksi_out data_id=2629 user_id=5 username=restu ket=L SET 6 (MMS-LS-6), qty: 5
+[2025-09-17 15:37:42] aksi=Barang Keluar tabel=transaksi_out data_id=2630 user_id=5 username=restu ket=BMP + WP + WL 10 x 20 (MMS-BMP-10X20-4.6), qty: 10
+[2025-09-17 16:21:35] aksi=Barang Keluar tabel=transaksi_out data_id=2631 user_id=5 username=restu ket=SOUTHREN CROSS TYPE PUMP PSGD 2J 100 x 65 - 250 (PUMP-SC-PSGD2J100x65-250), qty: 1
+[2025-09-17 16:26:16] aksi=Barang Keluar tabel=transaksi_out data_id=2632 user_id=5 username=restu ket=SAMOA GREASE GUN 1/4" (413080 SAMOA), qty: 2
+[2025-09-17 16:26:16] aksi=Barang Keluar tabel=transaksi_out data_id=2633 user_id=5 username=restu ket=SAMOA HOSE REEL 1/2" (504250 SAMOA), qty: 1
+[2025-09-17 16:26:16] aksi=Barang Keluar tabel=transaksi_out data_id=2634 user_id=5 username=restu ket=50:1 3" GREASE 55 GAL LM2350E-41-B (ARO) (LM2350E-41-B), qty: 1
+[2025-09-17 16:27:37] aksi=Barang Keluar tabel=transaksi_out data_id=2635 user_id=5 username=restu ket=KACA MATA BENING (SAFETY) ERK CHETTAH (MMS-K-KML-B), qty: 1
+[2025-09-17 16:28:30] aksi=Barang Keluar tabel=transaksi_out data_id=2636 user_id=5 username=restu ket=DEPRESSED CENTEL WHEEL 4" (DCW-K-4), qty: 1
+[2025-09-17 16:30:39] aksi=Barang Keluar tabel=transaksi_out data_id=2637 user_id=5 username=restu ket=KAPUR BESI (MMS-K-KB), qty: 3
+[2025-09-17 16:32:02] aksi=Barang Keluar tabel=transaksi_out data_id=2638 user_id=5 username=restu ket=CLAMP MIKALOR 36-39 (MMS-CMB-36X39), qty: 4
+[2025-09-17 16:33:13] aksi=Barang Keluar tabel=transaksi_out data_id=2639 user_id=5 username=restu ket=CUTTING TIP STRONG 8 NO.2 (K-CTS8-NO.2), qty: 1
+[2025-09-17 16:34:02] aksi=Barang Keluar tabel=transaksi_out data_id=2640 user_id=5 username=restu ket=PILOK HITAM (MMS-KT-BLACK), qty: 1
+[2025-09-17 16:34:51] aksi=Barang Keluar tabel=transaksi_out data_id=2641 user_id=5 username=restu ket=WRAPPING (MMS-WRAPPING), qty: 1
+[2025-09-17 16:34:51] aksi=Barang Keluar tabel=transaksi_out data_id=2642 user_id=5 username=restu ket=DEPRESSED CENTEL WHEEL 4" (DCW-K-4), qty: 2
+[2025-09-17 16:36:33] aksi=Barang Keluar tabel=transaksi_out data_id=2643 user_id=5 username=restu ket=AMPLAS NIKKEN 120 (MMS-L-AN-120), qty: 10

@@ -1,0 +1,8 @@
+[2025-09-16 12:58:52] LOGIN username=restu
+[2025-09-16 13:01:38] aksi=Barang Masuk tabel=transaksi_in data_id=310 user_id=5 username=restu ket=TOZEN 4" 100 A (LEKUKAN) (MMS-TZN-100A2), qty: 2
+[2025-09-16 13:01:38] aksi=Barang Masuk tabel=transaksi_in data_id=311 user_id=5 username=restu ket=TOZEN 2½" 65 A (2 LEKUKAN) (MMS-TZN-65A2), qty: 6
+[2025-09-16 13:01:38] aksi=Barang Masuk tabel=transaksi_in data_id=312 user_id=5 username=restu ket=BUTTERFLY KITZ 2" 50 (MMS-BL-BTF-50), qty: 1
+[2025-09-16 13:01:38] aksi=Barang Masuk tabel=transaksi_in data_id=313 user_id=5 username=restu ket=BUTTERFLY KITZ 2½" 65 (MMS-BL-BTF-65), qty: 4
+[2025-09-16 13:01:38] aksi=Barang Masuk tabel=transaksi_in data_id=314 user_id=5 username=restu ket=BUTTERFLY KITZ 3" 80 (MMS-BL-BTF-80), qty: 2
+[2025-09-16 13:01:38] aksi=Barang Masuk tabel=transaksi_in data_id=315 user_id=5 username=restu ket=BUTTERFLY KITZ 4" 100 (MMS-BL-BTF-100), qty: 2
+[2025-09-16 13:02:24] aksi=Barang Masuk tabel=transaksi_in data_id=316 user_id=5 username=restu ket=FLOWMETER OGM 25 (1") (FM-OGM-A25), qty: 10

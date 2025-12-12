@@ -1,0 +1,3 @@
+[2025-09-12 17:36:45] LOGIN username=restu
+[2025-09-12 17:37:48] aksi=Barang Keluar tabel=transaksi_out data_id=2327 user_id=5 username=restu ket=KAWAT LAS LB 52-3,2MM KOBELCO (LB-52-KOBELCO), qty: 5
+[2025-09-12 17:37:48] aksi=Barang Keluar tabel=transaksi_out data_id=2328 user_id=5 username=restu ket=KAWAT LAS RD 260-3,2MM (RD-260 KOBELCO), qty: 5

@@ -1,0 +1,9 @@
+[2025-09-16 16:10:57] LOGIN username=admin
+[2025-09-16 16:12:00] aksi=edit tabel=barang data_id=31473 user_id=1 username=admin ket=Edit barang: RD-260 KOBELCO
+[2025-09-16 16:12:33] aksi=edit tabel=barang data_id=30727 user_id=1 username=admin ket=Edit barang: LB-52-KOBELCO
+[2025-09-16 16:12:45] aksi=edit tabel=barang data_id=31473 user_id=1 username=admin ket=Edit barang: RD-260 KOBELCO
+[2025-09-16 16:13:14] aksi=edit tabel=barang data_id=31105 user_id=1 username=admin ket=Edit barang: MMS-K-KL-CO1.0
+[2025-09-16 16:14:19] aksi=Barang Masuk tabel=transaksi_in data_id=317 user_id=1 username=admin ket=FILTER VESSEL VIKING 1F INLET KANAN (MMS-FV-VIK-1F-INLN), qty: 1
+[2025-09-16 16:14:19] aksi=Barang Masuk tabel=transaksi_in data_id=318 user_id=1 username=admin ket=FILTER VESSEL VIKING 1F INLET KIRI (MMS-FV-VIK-1F-INLK), qty: 1
+[2025-09-16 16:14:19] aksi=Barang Masuk tabel=transaksi_in data_id=319 user_id=1 username=admin ket=FILTER VESSEL VIKING 2F INLET KANAN (MMS-FV-VIK-2F-INLN), qty: 1
+[2025-09-16 16:14:19] aksi=Barang Masuk tabel=transaksi_in data_id=320 user_id=1 username=admin ket=FILTER VESSEL VIKING 2F INLET KIRI (MMS-FV-VIK-2F-INLK), qty: 1

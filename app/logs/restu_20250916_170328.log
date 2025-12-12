@@ -1,0 +1,14 @@
+[2025-09-16 17:03:28] LOGIN username=restu
+[2025-09-16 17:06:18] aksi=Barang Keluar tabel=transaksi_out data_id=2567 user_id=5 username=restu ket=FLOWMETER OGM 25 (1") (FM-OGM-A25), qty: 5
+[2025-09-16 17:06:18] aksi=Barang Keluar tabel=transaksi_out data_id=2568 user_id=5 username=restu ket=SAMOA OIL CONTROL VALVE (363115 SAMOA), qty: 3
+[2025-09-16 17:06:18] aksi=Barang Keluar tabel=transaksi_out data_id=2569 user_id=5 username=restu ket=SAMOA HOSE REEL 1/2" (504250 SAMOA), qty: 4
+[2025-09-16 17:06:18] aksi=Barang Keluar tabel=transaksi_out data_id=2570 user_id=5 username=restu ket=50:1 3" GREASE 55 GAL LM2350E-41-B (ARO) (LM2350E-41-B), qty: 1
+[2025-09-16 17:06:18] aksi=Barang Keluar tabel=transaksi_out data_id=2571 user_id=5 username=restu ket=GREASE GUN WITH RUBBER HOSE (413082), qty: 1
+[2025-09-16 17:07:39] aksi=tambah tabel=barang data_id=31682 user_id=5 username=restu ket=Tambah barang: DWINDANG-123
+[2025-09-16 17:07:56] aksi=Barang Masuk tabel=transaksi_in data_id=325 user_id=5 username=restu ket=DWI (DWINDANG-123), qty: 10
+[2025-09-16 17:08:22] aksi=Barang Keluar tabel=transaksi_out data_id=2572 user_id=5 username=restu ket=DWI (DWINDANG-123), qty: 5
+[2025-09-16 17:08:33] aksi=Barang Keluar tabel=transaksi_out data_id=2573 user_id=5 username=restu ket=DWI (DWINDANG-123), qty: 5
+[2025-09-16 17:12:29] aksi=Barang Masuk tabel=transaksi_in data_id=326 user_id=5 username=restu ket=DWI (DWINDANG-123), qty: 100
+[2025-09-16 17:12:32] aksi=Barang Keluar tabel=transaksi_out data_id=2574 user_id=5 username=restu ket=DWI (DWINDANG-123), qty: 1
+[2025-09-16 17:12:40] aksi=Barang Keluar tabel=transaksi_out data_id=2575 user_id=5 username=restu ket=DWI (DWINDANG-123), qty: 1
+[2025-09-16 17:13:13] aksi=Barang Keluar tabel=transaksi_out data_id=2576 user_id=5 username=restu ket=DWI (DWINDANG-123), qty: 1

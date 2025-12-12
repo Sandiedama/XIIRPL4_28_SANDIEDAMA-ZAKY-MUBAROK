@@ -1,0 +1,4 @@
+[2025-09-13 13:07:13] LOGIN username=restu
+[2025-09-13 13:18:35] aksi=Barang Keluar tabel=transaksi_out data_id=2389 user_id=5 username=restu ket=KAWAT LAS CO 1.0 MM ENKA 15KG (MMS-K-KL-CO1.0), qty: 1
+[2025-09-13 13:29:47] aksi=Barang Keluar tabel=transaksi_out data_id=2390 user_id=5 username=restu ket=THINNER HG (MMS-THINNER-HG), qty: 20
+[2025-09-13 13:29:47] aksi=Barang Keluar tabel=transaksi_out data_id=2391 user_id=5 username=restu ket=THINNER PU (THINNER -PU), qty: 20

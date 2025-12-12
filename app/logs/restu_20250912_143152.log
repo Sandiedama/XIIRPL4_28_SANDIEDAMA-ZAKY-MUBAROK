@@ -1,0 +1,41 @@
+[2025-09-12 14:31:52] LOGIN username=restu
+[2025-09-12 14:42:42] aksi=Barang Keluar tabel=transaksi_out data_id=2290 user_id=5 username=restu ket=PLUG 1" NPT (MMS-PL-16NPT), qty: 5
+[2025-09-12 14:42:42] aksi=Barang Keluar tabel=transaksi_out data_id=2291 user_id=5 username=restu ket=LEVEL OIL YWZ-127 SEAL VTON (MMS-LO-YWZ-127-VTN), qty: 13
+[2025-09-12 14:42:42] aksi=Barang Keluar tabel=transaksi_out data_id=2292 user_id=5 username=restu ket=BMP + WP + WL 10 x 20 (MMS-BMP-10X20-4.6), qty: 52
+[2025-09-12 14:42:42] aksi=Barang Keluar tabel=transaksi_out data_id=2293 user_id=5 username=restu ket=TEE SOCK 3/4" (MMS-TS-12), qty: 2
+[2025-09-12 14:42:42] aksi=Barang Keluar tabel=transaksi_out data_id=2294 user_id=5 username=restu ket=Adapter Straight Swivel 3/4" NPT - 3/4" JIC (MMS-ASS-10NPT-10JIC), qty: 1
+[2025-09-12 14:42:42] aksi=Barang Keluar tabel=transaksi_out data_id=2295 user_id=5 username=restu ket=Adapter Straight ¾ NPT - ½ JIC (MMS-AS-12NPT-08JIC), qty: 2
+[2025-09-12 14:42:42] aksi=Barang Keluar tabel=transaksi_out data_id=2296 user_id=5 username=restu ket=Adapter Straight ¾ NPT - ¾ JIC (MMS-AS-12NPT-12JIC), qty: 1
+[2025-09-12 14:42:42] aksi=Barang Keluar tabel=transaksi_out data_id=2297 user_id=5 username=restu ket=Adapter Straight ¾ NPT - ¾ NPT (MMS-AS-12NPT-12NPT), qty: 1
+[2025-09-12 14:42:42] aksi=Barang Keluar tabel=transaksi_out data_id=2298 user_id=5 username=restu ket=BMP + WP + WL 10 x 55 (MMS-BMP-10X55-4.6), qty: 8
+[2025-09-12 14:43:52] aksi=Barang Masuk tabel=transaksi_in data_id=298 user_id=5 username=restu ket=KAPUR BESI (MMS-K-KB), qty: 120
+[2025-09-12 14:43:52] aksi=Barang Masuk tabel=transaksi_in data_id=299 user_id=5 username=restu ket=MATA BOR 13 MM (MMS-K-MB-13MM), qty: 3
+[2025-09-12 14:52:30] aksi=Barang Keluar tabel=transaksi_out data_id=2299 user_id=5 username=restu ket=KING NAPPLE 1¼" (MMS-KN-20), qty: 12
+[2025-09-12 14:52:30] aksi=Barang Keluar tabel=transaksi_out data_id=2300 user_id=5 username=restu ket=ELBOW LAS 2" SCH 40 (MMS-EL-32), qty: 6
+[2025-09-12 14:52:30] aksi=Barang Keluar tabel=transaksi_out data_id=2301 user_id=5 username=restu ket=SOCKET WELDING A105 B16.11 97.3000#2" (MMS-SW-2-3000), qty: 3
+[2025-09-12 14:52:30] aksi=Barang Keluar tabel=transaksi_out data_id=2302 user_id=5 username=restu ket=KAPUR BESI (MMS-K-KB), qty: 12
+[2025-09-12 14:52:30] aksi=Barang Keluar tabel=transaksi_out data_id=2303 user_id=5 username=restu ket=BALL VALVE ST VALVE ST-2" (MMS-BL-BRZ-32), qty: 2
+[2025-09-12 14:52:30] aksi=Barang Keluar tabel=transaksi_out data_id=2304 user_id=5 username=restu ket=Adapter Straight 2 NPT - 2 NPT (MMS-AS-32NPT-32NPT), qty: 2
+[2025-09-12 14:52:30] aksi=Barang Keluar tabel=transaksi_out data_id=2305 user_id=5 username=restu ket=MANHOLE AILE 20" (MANHOLE-AILE-20), qty: 2
+[2025-09-12 14:55:06] aksi=Barang Keluar tabel=transaksi_out data_id=2306 user_id=5 username=restu ket=SARUNG TANGAN KAIN (MMS-K-STK), qty: 1
+[2025-09-12 14:55:06] aksi=Barang Keluar tabel=transaksi_out data_id=2307 user_id=5 username=restu ket=CUTTING TAIYO YELLOW 4" (TAIYO-K-BC4), qty: 25
+[2025-09-12 14:55:06] aksi=Barang Keluar tabel=transaksi_out data_id=2308 user_id=5 username=restu ket=BM (10.9) + WP + WL 14 x 55 (MMS-BM-14X55-10.9), qty: 40
+[2025-09-12 14:55:06] aksi=Barang Keluar tabel=transaksi_out data_id=2309 user_id=5 username=restu ket=BM (10.9) + WP + WL 14 x 40 (MMS-BM-14X40-10.9), qty: 20
+[2025-09-12 14:55:06] aksi=Barang Keluar tabel=transaksi_out data_id=2310 user_id=5 username=restu ket=KAPUR BESI (MMS-K-KB), qty: 12
+[2025-09-12 14:58:01] aksi=Barang Keluar tabel=transaksi_out data_id=2311 user_id=5 username=restu ket=EXHAUST FAN PLAFON (MMS-EXHT-FAN), qty: 3
+[2025-09-12 14:58:01] aksi=Barang Keluar tabel=transaksi_out data_id=2312 user_id=5 username=restu ket=ISAMU (MMS-ISAMU), qty: 4
+[2025-09-12 14:58:01] aksi=Barang Keluar tabel=transaksi_out data_id=2313 user_id=5 username=restu ket=PALU PEMECAH KACA (MMS-NT-PMK-MNHL), qty: 12
+[2025-09-12 15:00:42] aksi=tambah tabel=barang data_id=31675 user_id=5 username=restu ket=Tambah barang: MDR-CNDR
+[2025-09-12 15:01:26] aksi=Barang Keluar tabel=transaksi_out data_id=2314 user_id=5 username=restu ket=CONDOR (MDR-CNDR), qty: 1
+[2025-09-12 15:05:54] aksi=Barang Keluar tabel=transaksi_out data_id=2315 user_id=5 username=restu ket=SAMOA HOSE REEL 1/2" (504250 SAMOA), qty: 2
+[2025-09-12 15:05:54] aksi=Barang Keluar tabel=transaksi_out data_id=2316 user_id=5 username=restu ket=Raasm Oil Stub Pump (36080), qty: 1
+[2025-09-12 15:26:22] aksi=tambah tabel=barang data_id=31676 user_id=5 username=restu ket=Tambah barang: RD-260-0.2-KOBELCO
+[2025-09-12 15:27:22] aksi=Barang Masuk tabel=transaksi_in data_id=300 user_id=5 username=restu ket=KAWAT LAS RD 260 0.2 (RD-260-0.2-KOBELCO), qty: 2
+[2025-09-12 16:00:55] aksi=Barang Keluar tabel=transaksi_out data_id=2319 user_id=5 username=restu ket=SARUNG TANGAN KAIN (MMS-K-STK), qty: 1
+[2025-09-12 16:02:15] aksi=Barang Keluar tabel=transaksi_out data_id=2320 user_id=5 username=restu ket=KAWAT BRUSHING-KC-075Y / BRUSHING CUP 3" (MMS-K-KC-075Y), qty: 1
+[2025-09-12 16:03:23] aksi=Barang Keluar tabel=transaksi_out data_id=2321 user_id=5 username=restu ket=CUTTING TAIYO YELLOW 4" (TAIYO-K-BC4), qty: 100
+[2025-09-12 16:04:02] aksi=Barang Keluar tabel=transaksi_out data_id=2322 user_id=5 username=restu ket=THINNER HG (MMS-THINNER-HG), qty: 20
+[2025-09-12 16:04:02] aksi=Barang Keluar tabel=transaksi_out data_id=2323 user_id=5 username=restu ket=BLIM PU BLUE (MMS-BLIM-BLE), qty: 20
+[2025-09-12 16:05:19] aksi=Barang Keluar tabel=transaksi_out data_id=2324 user_id=5 username=restu ket=KAPUR BESI (MMS-K-KB), qty: 3
+[2025-09-12 16:05:47] aksi=Barang Keluar tabel=transaksi_out data_id=2325 user_id=5 username=restu ket=KAWAT LAS RD 260 0.2 (RD-260-0.2-KOBELCO), qty: 2
+[2025-09-12 16:06:22] aksi=Barang Keluar tabel=transaksi_out data_id=2326 user_id=5 username=restu ket=STP 3123 WHITE (MMS-K-SS-WHITE), qty: 3

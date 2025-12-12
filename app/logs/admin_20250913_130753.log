@@ -1,0 +1,5 @@
+[2025-09-13 13:07:53] LOGIN username=admin
+[2025-09-13 13:09:42] aksi=edit tabel=barang data_id=31001 user_id=1 username=admin ket=Edit barang: MMS-FL-10K-32
+[2025-09-13 13:10:07] aksi=edit tabel=barang data_id=31001 user_id=1 username=admin ket=Edit barang: MMS-FL-10K-32
+[2025-09-13 13:10:13] aksi=edit tabel=barang data_id=31002 user_id=1 username=admin ket=Edit barang: MMS-FL-10K-40
+[2025-09-13 13:10:47] aksi=edit tabel=barang data_id=31003 user_id=1 username=admin ket=Edit barang: MMS-FL-10K-48
