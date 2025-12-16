@@ -1,15 +1,4 @@
-"""
-Script migrasi opsional untuk menambahkan waktu default (00:00:00) ke data lama.
-Jalankan script ini jika ingin data lama juga punya format waktu.
 
-CARA MENGGUNAKAN:
-    python migrate_tanggal.py
-
-CATATAN: 
-    - Ini OPSIONAL - aplikasi tetap bisa bekerja tanpa migrasi ini
-    - Backup database dulu sebelum menjalankan migrasi
-    - Script ini hanya mengupdate data yang formatnya masih YYYY-MM-DD (tanggal saja)
-"""
 
 import sys
 import os
